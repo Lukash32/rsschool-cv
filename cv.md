@@ -14,3 +14,6 @@ Every day i learning something new, because i study in rsschool and it's great!
 * *HTML* - beginner
 * *CSS*  - beginner
 * *GIT*  - beginner
+
+## Code Example
+``` <h1>Zero</h1> ```
