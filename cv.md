@@ -9,3 +9,8 @@ Every day i learning something new, because i study in rsschool and it's great!
 * **My Email:** lukashick32@mail.ru
 * **My social-network:** (VK) - https://vk.com/lukashick 
 * **Location:** Bryansk, Russia
+
+## My Scills
+* *HTML* - beginner
+* *CSS*  - beginner
+* *GIT*  - beginner
