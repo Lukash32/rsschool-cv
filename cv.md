@@ -17,3 +17,12 @@ Every day i learning something new, because i study in rsschool and it's great!
 
 ## Code Example
 ``` <h1>Zero</h1> ```
+
+## Experience
+**I don't have any experience**
+
+## Education
+* **College:** Брянский филиал РЭУ им.Г.В. Плеханова 
+* **Course:** rsschool pre-stage
+
+
