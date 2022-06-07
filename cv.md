@@ -25,4 +25,9 @@ Every day i learning something new, because i study in rsschool and it's great!
 * **College:** Брянский филиал РЭУ им.Г.В. Плеханова 
 * **Course:** rsschool pre-stage
 
+## English
+ I didn't pass any English tests but i think my English level is **A1-A2**
+ I fineshed english course "English for 16 lessons", and now i learning english on You-Tube channel "English by playlists".
+ I really want to speak English fluently!
+
 
